@@ -14,7 +14,7 @@ In order to run the program, please do the following things:
 
 You will see a GUI now. By using it, you can arrange your values and click on 
 "Set and Run". Since the GUI is an additional material to make the model 
-easier to use, we have not put effort on input controls like -->  Cop Density + 
+easier to use, I have not put effort on input controls like -->  Cop Density + 
 Citizen Density < 100. 
 	
 Since the program will run indefinetly, please stop it at some point by
