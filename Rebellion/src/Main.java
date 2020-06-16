@@ -59,10 +59,8 @@ public class Main {
 		ArrayList<JSONObject> jailedCitizens = new ArrayList<JSONObject>();
 		
 		
-		//******************************* INPUT ************************************
-		// Getting the dimension variable from the terminal
-		// I let our system to accept some dimension values less than 40 for testing
-		
+		//******************************* SIZE  ************************************
+		// It must be exactly 40 just like the original netlogo model
 		int dimension = 40;
 		
 		//**************************************************************************

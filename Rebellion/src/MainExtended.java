@@ -56,15 +56,13 @@ public class MainExtended {
 		// Initialization of the array list for jailed citizens
 		ArrayList<JSONObject> jailedCitizens = new ArrayList<JSONObject>();
 		
-		//******************************* INPUT ************************************
-		// Getting the dimension variable from the terminal
-		// I let our system to accept some dimension values less than 40 for testing
 		
+		//******************************* SIZE  ***********************$
+                // It must be exactly 40 just like the original netlogo model 
+                
 		int dimension = 40;
-		
-		//**************************************************************************
-		
-		
+
+                //*************************************************************		
 		
 		// Creating a 2D array for the city
 		JSONObject[][] city = new JSONObject[dimension][dimension];		
